@@ -1,0 +1,14 @@
+com\albares\db\Db.class
+com\albares\api\Api.class
+com\albares\utils\Parameters.class
+com\albares\api\DeployListener.class
+com\albares\db\DbPool.class
+com\albares\domain\User.class
+com\albares\utils\Match.class
+com\albares\api\UserService.class
+com\albares\api\ScoreService.class
+com\albares\utils\JWTUtils.class
+com\albares\utils\ResponseCodes.class
+com\albares\utils\SHAUtils.class
+com\albares\utils\Response.class
+com\albares\utils\Secrets.class
